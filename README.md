@@ -8,7 +8,7 @@ Repositório criado para as aulas de ambiente virtual do SENAI.
 
 2° Use o CMD para encontrar o caminho onde o arquivo está.
 
-3° Crie uma variável de ambiente usando o comando $env:DATA_PATH = 'caminho-do-arquivo' no prompt do PC ou do ambiente. Ela só durará enquanto o prompt estiver aberto. Também é possível utilizar o SETX DATA_PATH 'caminho-do-arquivo' para criar uma variável de ambiente permanente.
+3° Crie uma variável de ambiente usando o comando $env:DATA_PATH = '< caminho-do-arquivo >' no prompt do PC ou do ambiente. Ela só durará enquanto o prompt estiver aberto. Também é possível utilizar o SETX DATA_PATH '< caminho-do-arquivo >' no Powershell para criar uma variável de ambiente permanente.
 
 4° Use o arquivo requirements.txt para baixar os requisitos utilizando o comando pip install -r requirements.txt
 
